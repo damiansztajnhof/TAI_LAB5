@@ -1,0 +1,16 @@
+.card-wrapper{
+    position:relative;
+}
+.custom-card{
+    position:absolute;
+}
+li{
+    padding:20px;
+    background-color: #ffffff;
+    
+}
+ul{
+    overflow-y:scroll;
+    height:400px;
+    
+}
